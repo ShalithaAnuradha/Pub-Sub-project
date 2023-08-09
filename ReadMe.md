@@ -35,4 +35,4 @@ To run the project, please follow the below steps
 
 
 ## Now you can see the request and response flow in pub - sub flow
-## You can check the flow with the Offset explorer application (https://www.kafkatool.com/) to have a deeper understanding.
+### You can check the flow with the Offset explorer application (https://www.kafkatool.com/) to have a deeper understanding.
